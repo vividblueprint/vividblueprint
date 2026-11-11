@@ -12,15 +12,12 @@
 ![ROS 2](https://img.shields.io/badge/ROS%202-Jazzy-22314E?logo=ros)
 ![MuJoCo](https://img.shields.io/badge/Simulation-MuJoCo-orange)
 ![Legged Locomotion](https://img.shields.io/badge/Research-Legged%20Locomotion-purple)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 
 [![GitHub](https://img.shields.io/badge/GitHub-vividblueprint-181717?logo=github&logoColor=white)](https://github.com/vividblueprint)
 [![Followers](https://img.shields.io/github/followers/vividblueprint?style=flat&logo=github&label=Followers)](https://github.com/vividblueprint?tab=followers)
 ![Profile Views](https://komarev.com/ghpvc/?username=vividblueprint&label=Profile%20Views&color=blueviolet&style=flat)
-![Followers](https://img.shields.io/github/followers/vividblueprint?style=flat)
 ![Issues](https://img.shields.io/github/issues/vividblueprint/vividblueprint?style=flat)
 ![Pull Requests](https://img.shields.io/github/issues-pr/vividblueprint/vividblueprint?style=flat)
-![Release](https://img.shields.io/github/v/release/vividblueprint/vividblueprint?style=flat)
 [![Contributors](https://img.shields.io/github/contributors/vividblueprint/vividblueprint?style=flat)](https://github.com/vividblueprint/vividblueprint/graphs/contributors)
 [![Stars](https://img.shields.io/github/stars/vividblueprint/vividblueprint?style=flat)](https://github.com/vividblueprint/vividblueprint/stargazers)
 [![Forks](https://img.shields.io/github/forks/vividblueprint/vividblueprint?style=flat)](https://github.com/vividblueprint/vividblueprint/forks)
@@ -28,12 +25,14 @@
 ![Last Commit](https://img.shields.io/github/last-commit/vividblueprint/vividblueprint?style=flat)
 ![Monthly Commits](https://img.shields.io/github/commit-activity/m/vividblueprint/vividblueprint?style=flat)
 ![Languages](https://img.shields.io/github/languages/count/vividblueprint/vividblueprint?style=flat)
-![Top Language](https://img.shields.io/github/languages/top/vividblueprint/vividblueprint?style=flat)
 ![Code Size](https://img.shields.io/github/languages/code-size/vividblueprint/vividblueprint?style=flat)
 ![Repo Size](https://img.shields.io/github/repo-size/vividblueprint/vividblueprint?style=flat)
 ![Files](https://img.shields.io/github/directory-file-count/vividblueprint/vividblueprint?type=file&style=flat)
 
+<!-- ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) -->
 <!-- ![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white) -->
+<!-- ![Release](https://img.shields.io/github/v/release/vividblueprint/vividblueprint?style=flat) -->
+<!-- ![Top Language](https://img.shields.io/github/languages/top/vividblueprint/vividblueprint?style=flat) -->
 <!-- ![License](https://img.shields.io/github/license/vividblueprint/vividblueprint?style=flat) -->
 
 
