@@ -8,16 +8,17 @@
 
 **Ph.D. Student in Computer Science · Wuhan University**
 
-[![GitHub profile](https://img.shields.io/badge/GitHub-vividblueprint-181717?logo=github&logoColor=white)](https://github.com/vividblueprint)
-
+![GitHub profile](https://img.shields.io/badge/GitHub-vividblueprint-181717?logo=github&logoColor=white)
 ![Contributors](https://img.shields.io/github/contributors/vividblueprint/vividblueprint?style=flat)
 ![Issues](https://img.shields.io/github/issues/vividblueprint/vividblueprint?style=flat)
 ![Pull Requests](https://img.shields.io/github/issues-pr/vividblueprint/vividblueprint?style=flat)
 ![Languages](https://img.shields.io/github/languages/count/vividblueprint/vividblueprint?style=flat)
-![Top Language](https://img.shields.io/github/languages/top/vividblueprint/vividblueprint?style=flat)
 ![Code Size](https://img.shields.io/github/languages/code-size/vividblueprint/vividblueprint?style=flat)
 ![Repo Size](https://img.shields.io/github/repo-size/vividblueprint/vividblueprint?style=flat)
 ![Last Commit](https://img.shields.io/github/last-commit/vividblueprint/vividblueprint?style=flat)
+![Files](https://img.shields.io/github/directory-file-count/vividblueprint/vividblueprint?type=file&style=flat)
+
+<!-- ![Top Language](https://img.shields.io/github/languages/top/vividblueprint/vividblueprint?style=flat) -->
 
 ```mermaid
 gitGraph
@@ -73,7 +74,7 @@ I work at the intersection of **robot dynamics, classical control, deep reinforc
 ![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Isaac Lab](https://img.shields.io/badge/Isaac_Lab-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Isaac Sim](https://img.shields.io/badge/Isaac_Sim-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![MuJoCo](https://img.shields.io/badge/MuJoCo-Simulation-007ACC?style=for-the-badge)
+![MuJoCo](https://img.shields.io/badge/MuJoCo-22314F?style=for-the-badge&logo=munoco&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
