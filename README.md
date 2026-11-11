@@ -6,19 +6,36 @@
 
 ### 🤖 Robotics Researcher | Reinforcement Learning | Robot Locomotion & Control
 
-**Ph.D. Student in Computer Science · Wuhan University**
+![Robotics](https://img.shields.io/badge/Research-Robotics-blueviolet)
+![Reinforcement Learning](https://img.shields.io/badge/Focus-Reinforcement%20Learning-green)
+![Isaac Lab](https://img.shields.io/badge/Platform-Isaac%20Lab-76B900?logo=nvidia)
+![ROS 2](https://img.shields.io/badge/ROS%202-Jazzy-22314E?logo=ros)
+![MuJoCo](https://img.shields.io/badge/Simulation-MuJoCo-orange)
+![Legged Locomotion](https://img.shields.io/badge/Research-Legged%20Locomotion-purple)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 
-![Contributors](https://img.shields.io/github/contributors/vividblueprint/vividblueprint?style=flat)
+[![GitHub](https://img.shields.io/badge/GitHub-vividblueprint-181717?logo=github&logoColor=white)](https://github.com/vividblueprint)
+[![Followers](https://img.shields.io/github/followers/vividblueprint?style=flat&logo=github&label=Followers)](https://github.com/vividblueprint?tab=followers)
+![Profile Views](https://komarev.com/ghpvc/?username=vividblueprint&label=Profile%20Views&color=blueviolet&style=flat)
+![Followers](https://img.shields.io/github/followers/vividblueprint?style=flat)
 ![Issues](https://img.shields.io/github/issues/vividblueprint/vividblueprint?style=flat)
 ![Pull Requests](https://img.shields.io/github/issues-pr/vividblueprint/vividblueprint?style=flat)
+![Release](https://img.shields.io/github/v/release/vividblueprint/vividblueprint?style=flat)
+[![Contributors](https://img.shields.io/github/contributors/vividblueprint/vividblueprint?style=flat)](https://github.com/vividblueprint/vividblueprint/graphs/contributors)
+[![Stars](https://img.shields.io/github/stars/vividblueprint/vividblueprint?style=flat)](https://github.com/vividblueprint/vividblueprint/stargazers)
+[![Forks](https://img.shields.io/github/forks/vividblueprint/vividblueprint?style=flat)](https://github.com/vividblueprint/vividblueprint/forks)
+[![Watchers](https://img.shields.io/github/watchers/vividblueprint/vividblueprint?style=flat)](https://github.com/vividblueprint/vividblueprint/watchers)
+![Last Commit](https://img.shields.io/github/last-commit/vividblueprint/vividblueprint?style=flat)
+![Monthly Commits](https://img.shields.io/github/commit-activity/m/vividblueprint/vividblueprint?style=flat)
 ![Languages](https://img.shields.io/github/languages/count/vividblueprint/vividblueprint?style=flat)
+![Top Language](https://img.shields.io/github/languages/top/vividblueprint/vividblueprint?style=flat)
 ![Code Size](https://img.shields.io/github/languages/code-size/vividblueprint/vividblueprint?style=flat)
 ![Repo Size](https://img.shields.io/github/repo-size/vividblueprint/vividblueprint?style=flat)
-![Last Commit](https://img.shields.io/github/last-commit/vividblueprint/vividblueprint?style=flat)
 ![Files](https://img.shields.io/github/directory-file-count/vividblueprint/vividblueprint?type=file&style=flat)
 
-<!-- ![GitHub profile](https://img.shields.io/badge/GitHub-vividblueprint-181717?logo=github&logoColor=white) -->
-<!-- ![Top Language](https://img.shields.io/github/languages/top/vividblueprint/vividblueprint?style=flat) -->
+<!-- ![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white) -->
+<!-- ![License](https://img.shields.io/github/license/vividblueprint/vividblueprint?style=flat) -->
+
 
 ```mermaid
 gitGraph
@@ -209,3 +226,8 @@ I'm interested in collaborating on **robotics reinforcement learning, quadrupeda
 ⭐ **Thanks for visiting my GitHub profile!**
 
 </div>
+
+
+## 👥 Contributors
+
+[![Contributors](https://contrib.rocks/image?repo=vividblueprint/vividblueprint)](https://github.com/vividblueprint/vividblueprint/graphs/contributors)
