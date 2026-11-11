@@ -22,7 +22,7 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           username: vividblueprint
-          cards: overview,contributions #,momentum,lifetime,composition,rhythm,cadence,repositories,portfolio,languages
+          cards: overview,lifetime #,momentum,contributions,composition,rhythm,cadence,repositories,portfolio,languages
           output-dir: assets
           themes: light,dark
           commit: true
