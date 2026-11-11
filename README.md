@@ -12,6 +12,7 @@
 ![ROS 2](https://img.shields.io/badge/ROS%202-Jazzy-22314E?logo=ros)
 ![MuJoCo](https://img.shields.io/badge/Simulation-MuJoCo-orange)
 ![Legged Locomotion](https://img.shields.io/badge/Research-Legged%20Locomotion-purple)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 
 [![GitHub](https://img.shields.io/badge/GitHub-vividblueprint-181717?logo=github&logoColor=white)](https://github.com/vividblueprint)
 [![Followers](https://img.shields.io/github/followers/vividblueprint?style=flat&logo=github&label=Followers)](https://github.com/vividblueprint?tab=followers)
@@ -29,7 +30,6 @@
 ![Repo Size](https://img.shields.io/github/repo-size/vividblueprint/vividblueprint?style=flat)
 ![Files](https://img.shields.io/github/directory-file-count/vividblueprint/vividblueprint?type=file&style=flat)
 
-<!-- ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) -->
 <!-- ![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white) -->
 <!-- ![Release](https://img.shields.io/github/v/release/vividblueprint/vividblueprint?style=flat) -->
 <!-- ![Top Language](https://img.shields.io/github/languages/top/vividblueprint/vividblueprint?style=flat) -->
