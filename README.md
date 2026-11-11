@@ -8,7 +8,6 @@
 
 **Ph.D. Student in Computer Science · Wuhan University**
 
-![GitHub profile](https://img.shields.io/badge/GitHub-vividblueprint-181717?logo=github&logoColor=white)
 ![Contributors](https://img.shields.io/github/contributors/vividblueprint/vividblueprint?style=flat)
 ![Issues](https://img.shields.io/github/issues/vividblueprint/vividblueprint?style=flat)
 ![Pull Requests](https://img.shields.io/github/issues-pr/vividblueprint/vividblueprint?style=flat)
@@ -18,6 +17,7 @@
 ![Last Commit](https://img.shields.io/github/last-commit/vividblueprint/vividblueprint?style=flat)
 ![Files](https://img.shields.io/github/directory-file-count/vividblueprint/vividblueprint?type=file&style=flat)
 
+<!-- ![GitHub profile](https://img.shields.io/badge/GitHub-vividblueprint-181717?logo=github&logoColor=white) -->
 <!-- ![Top Language](https://img.shields.io/github/languages/top/vividblueprint/vividblueprint?style=flat) -->
 
 ```mermaid
