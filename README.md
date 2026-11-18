@@ -214,7 +214,11 @@ I'm interested in collaborating on **robotics reinforcement learning, quadrupeda
 
 📍 **Wuhan University, China**  
 🎓 **Computer Science | Robotics | Reinforcement Learning**  
-💬 [GitHub: @vividblueprint](https://github.com/vividblueprint)
+
+[![GitHub](https://img.shields.io/badge/GitHub-vividblueprint-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vividblueprint)
+[![Email](https://img.shields.io/badge/Email-shamim%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shamim@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-follow%20me-0866FF?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/shamimahamed10010)
+[![WeChat](https://img.shields.io/badge/WeChat-shamim__10010-07C160?style=flat-square&logo=wechat&logoColor=white)](https://github.com/vividblueprint/vividblueprint/blob/main/assets/wechat-qr.png)
 
 ### 💡 Research Philosophy
 
